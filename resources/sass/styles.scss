@@ -1,0 +1,25 @@
+/**
+    DONT REMOVE THIS LINE !!!
+    YOUR STYLING WILL GONE !!!
+**/
+
+@import "customs";
+
+/** Happy Styling  **/
+
+body {
+    background: url('../img/child-children-girl-happy.jpg') no-repeat center center;
+    background-size: cover;
+    div {
+        height: 100vh;
+        h1 {
+            margin-left: 250px;
+            color: #ffffff;
+            padding: 0px !important;
+            small,
+            i {
+                font-size: 20px !important;
+            }
+        }
+    }
+}
