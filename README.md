@@ -21,7 +21,7 @@ Front End Project Workflow everything in one file! also include:
 		$ npm -v
 		5.4.1 # Output latest release
 
- 3. Download Workflow Packages : [Download Packages](https://example.com)
+ 3. Download Workflow Packages : [Download Packages](https://github.com/bettaeducation/workflow-project/archive/master.zip)
 
 ## Install Workflow Packages
 	
