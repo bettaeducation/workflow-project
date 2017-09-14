@@ -28,7 +28,12 @@ Front End Project Workflow everything in one file! also include:
 	$ (~) cd workflow-project/
 	$ (workflow-project) npm install
 
-## Usage
+## Using `npm start` run gulp from devDependencies
+if you don't have `gulp` install globally on your system
+
+	$ (workflow-project) npm start
+
+## Using `gulp` run gulp your machine
 
 	$ (workflow-project) gulp
 
